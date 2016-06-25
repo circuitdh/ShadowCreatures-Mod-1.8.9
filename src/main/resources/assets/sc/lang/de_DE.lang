@@ -1,0 +1,43 @@
+category.shadowcreatures.name=SchattenKreaturen Mod
+keyBinding.morphkey.name=Verwandlung
+keyBinding.throwkey.name=Schwert werfen
+tile.null.name=Null
+itemGroup.tabShadowHunter=Schattenwelt
+itemGroup.tabShadowRunes=Runen
+
+item.lightstone.name=Elbenlicht
+item.silverdust.name=Silberstaub
+tile.SilverOre.name=Silbererz
+item.SilverIngot.name=Silberbarren
+item.mortar.name=Mörser und Stößel
+item.stardust.name=Sternenstaub
+item.fairydust.name=Feenstaub
+item.flesh.name=Fleisch
+tile.DEV_BLOCK.name=debug
+tile.weaponforge.name=Waffenschmiede
+tile.brewing_cauldron.name=Braukessel
+item.iron_rod.name=Eisenstange
+item.bottled_holy_water.name=Flasche voll Weihwasser
+item.crystal.name=Magischer Kristall
+item.crystalpen.name=Stele
+tile.crystalore.name=Kristallerz
+tile.crystalore.name=Kristallerz
+item.angelsword.name=Engelsklinge
+item.namedangelsword.name=Engelsklinge
+item.legendary_sword.name=Schwert der Engel
+tile.mirror.name=Magischer Spiegel
+potion.blood.name=Blut
+tile.fluid_blood.name=Blut
+item.bucket_blood.name=Eimer voll Blut
+potion.holy_water.name=Weihwasser
+tile.fluid_holy_water.name=Weihwasser
+item.bucket_holy_water.name=Eimer voll Weihwasser
+potion.generic.name=Generic
+tile.fluid_generic.name=Generic
+item.bucket_generic.name=Eimer voll Generic
+
+item.rune_blank.name=Rune
+
+entity.Vampire.name=Vampir
+entity.Werewolf.name=Werwolf
+entity.ThrownSword.name=Engelsklinge

@@ -1,0 +1,43 @@
+category.shadowcreatures.name=Shadow Creatures Mod
+keyBinding.morphkey.name=Morph Key
+keyBinding.throwkey.name=Throw Sword
+tile.null.name=Null
+itemGroup.tabShadowHunter=Shadow Hunt
+itemGroup.tabShadowRunes=Shadow Runes
+
+item.lightstone.name=Elven Light
+item.silverdust.name=Silver Dust
+tile.SilverOre.name=Silver Ore
+item.SilverIngot.name=Silver Ingot
+item.mortar.name=Mortar and Pestle
+item.stardust.name=Star Dust
+item.fairydust.name=Fairy Dust
+item.flesh.name=Flesh
+tile.DEV_BLOCK.name=debug
+tile.weaponforge.name=Weapon Forge
+tile.brewing_cauldron.name=Brewing Cauldron
+item.iron_rod.name=Iron Rod
+item.bottled_holy_water.name=Bottle of Holy Water
+item.crystal.name=Magic Crystal
+item.crystalpen.name=Inscribing Tool
+tile.crystalore.name=Crystal Ore
+tile.crystalore_end.name=End Crystal Ore
+item.angelsword.name=Angel Sword
+item.namedangelsword.name=Angel Sword
+item.legendary_sword.name=Sword of the Arc Angel
+tile.mirror.name=Magical Mirror
+potion.blood.name=Blood
+tile.fluid_blood.name=Blood
+item.bucket_blood.name=Bucket of Blood
+potion.holy_water.name=Holy Water
+tile.fluid_holy_water.name=Holy Water
+item.bucket_holy_water.name=Bucket of Holy Water
+potion.generic.name=Generic
+tile.fluid_generic.name=Generic
+item.bucket_generic.name=Bucket of Generic
+
+item.rune_blank.name=Blank Rune
+
+entity.Vampire.name=Vampire
+entity.Werewolf.name=Werewolf
+entity.ThrownSword.name=Angel Sword

@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "sc:weaponfoge"
+        },
+        "transform": "forge:default-block"
+    },
+    "variants": {
+        "facing": {
+           "north": { "y": 270 },
+           "south": { "y": 90 },
+           "west": { "y": 180 },
+           "east": {}
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "sc:wool_pad",
+        "transform": "forge:default-block"
+    },
+}

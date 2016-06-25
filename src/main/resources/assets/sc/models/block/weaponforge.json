@@ -1,0 +1,8 @@
+{
+    "parent": "block/anvil",
+    "textures": {
+        "particle": "sc:blocks/forge_base",
+        "body": "sc:blocks/forge_base",
+        "top": "sc:blocks/forge_top"
+    }
+}
