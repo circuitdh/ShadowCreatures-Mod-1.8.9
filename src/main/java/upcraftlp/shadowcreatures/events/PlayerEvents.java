@@ -17,7 +17,4 @@ public class PlayerEvents {
 			event.setCanceled(true);
 		}
 	}
-	
-	
-	
 }
