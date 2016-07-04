@@ -58,7 +58,7 @@ public class ShadowCreaturesMod {
 		data.authorList.add("UpcraftLP");
 		data.authorList.add("The Forge Modding Community");
 		data.logoFile = "assets/sc/textures/gui/logo.png";
-		
+
 		System.out.println("[ShadowCreatures] Successfully loaded.");
 	}
 

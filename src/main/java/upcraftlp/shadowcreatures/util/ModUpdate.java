@@ -9,13 +9,13 @@ import upcraftlp.shadowcreatures.Reference;
 
 public class ModUpdate {
 	
-	private static final String UPDATE_URL = "https://raw.githubusercontent.com/UpcraftLP/Mods/master/ShadowCreaturesMod/Update/scmod_1.8.9.txt";
+	private static final String UPDATE_URL = Reference.INTERNAL_UPDATE_URL;
 	private static boolean newVersionAvailable = false;
 	public static String latestVersion = Reference.VERSION;
 	
 	public static void checkUpdates()
 	{
-		new Thread("Update-Checker")
+		new Thread("Update-Checker" + Reference.MOD_ID)
 		{
 			public void run() {
 				try {

@@ -7,5 +7,6 @@ public class Reference {
 	public static final String VERSION = "0.0.6a";
 	public static final String CLIENT_PROXY_CLASS = "upcraftlp.shadowcreatures.proxy.ClientProxy";
 	public static final String SERVER_PROXY_CLASS = "upcraftlp.shadowcreatures.proxy.CommonProxy";
+	public static final String INTERNAL_UPDATE_URL = "";
 	
 }
